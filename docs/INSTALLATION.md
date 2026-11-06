@@ -4,16 +4,18 @@
 
 - Install [Prism Launcher](https://prismlauncher.org/).
 - Make sure you can access this private GitHub repository.
-- Download the `.mrpack` asset from the desired version under **Releases**.
+- Download the Prism Launcher instance `.zip` asset from the desired version under **Releases**.
 
 ## Import
 
 1. Open Prism Launcher.
 2. Click **Add Instance**.
 3. Select **Import**.
-4. Browse to the downloaded `.mrpack` file.
-5. Confirm the import and allow Prism to download the required files.
-6. Start the instance after the import completes.
+4. Browse to and select the downloaded `.zip` file.
+5. Follow the import prompts and wait for Prism to finish.
+6. Start the instance.
+
+The download is a Prism Launcher instance export, not a generic folder archive or an `.mrpack`. Import the ZIP directly through Prism's **Import** option.
 
 ## Updating
 
