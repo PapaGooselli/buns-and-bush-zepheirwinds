@@ -13,5 +13,6 @@ This project uses a simple versioning convention:
 - Initial repository and documentation.
 
 ### Changed
+- Set the distribution package format to a Prism Launcher instance export (`.zip`), rather than `.mrpack`.
 
 ### Fixed
