@@ -13,14 +13,15 @@ This repository is the home for the pack's documentation, version history, and d
 | NeoForge version | 21.1.265 |
 | Launcher | [Prism Launcher](https://prismlauncher.org/) |
 | Distribution | Private — invited players only |
+| Pack format | Prism Launcher instance export (`.zip`) |
 
 ## Install the modpack
 
 1. Open the **Releases** section of this repository.
-2. Download the `.mrpack` file attached to the version you want.
+2. Download the Prism Launcher instance `.zip` attached to the version you want.
 3. Open Prism Launcher.
 4. Choose **Add Instance** → **Import**.
-5. Select the downloaded `.mrpack` file and let Prism install it.
+5. Select the downloaded `.zip` file and follow the import prompts.
 6. Launch the instance once installation finishes.
 
 For more detail and troubleshooting, see [the installation guide](docs/INSTALLATION.md).
@@ -29,7 +30,7 @@ For more detail and troubleshooting, see [the installation guide](docs/INSTALLAT
 
 ## Updating
 
-When a new pack version is released, download its `.mrpack` from Releases and import it into Prism as a new instance. Keep your existing instance until you've confirmed the new one works and your worlds are backed up.
+When a new pack version is released, download its Prism Launcher `.zip` from Releases and import it into Prism as a new instance. Keep your existing instance until you've confirmed the new one works and your worlds are backed up.
 
 See [CHANGELOG.md](CHANGELOG.md) for version notes.
 
