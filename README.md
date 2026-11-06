@@ -4,6 +4,14 @@ A private, community-focused Minecraft modpack for the ZepheirWinds crew.
 
 This repository is the home for the pack's documentation, version history, and downloadable releases.
 
+## Important disclaimer — mod authorship and private distribution
+
+**I am not the creator, developer, or owner of the individual mods included in this modpack.** Those mods remain the work and property of their respective authors and rights holders. I do not claim authorship, ownership, endorsement, or affiliation with any of those mods or their creators.
+
+This GitHub repository is used only to distribute a **private modpack for private use by invited players**. The pack is not being presented, published, or distributed under the pretense that I created any of the included mods. Downloading or using this pack must not be taken as a claim that I am a mod developer or that I represent the creators of its contents.
+
+The modpack is an unofficial community collection. Individual mods are subject to their own authors' licenses, terms, and permissions. This repository does not replace those terms or grant permission to rehost, modify, or redistribute any individual mod. Please obtain mods from their respective authors or official project pages when required.
+
 ## At a glance
 
 | Setting | Value |
